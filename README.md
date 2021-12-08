@@ -1,8 +1,8 @@
-![image](https://github.com/Apurva-official/Html-css_works/blob/main/Screenshot%20(135).png)
+![Html Css Grid Layout](https://github.com/Apurva-official/Html-css_works/blob/main/Screenshot%20(135).png)
 
-![image](https://github.com/Apurva-official/Html-css_works/blob/main/Screenshot%20(80).png)
+![Personal Project Portfolio](https://github.com/Apurva-official/Html-css_works/blob/main/Screenshot%20(80).png)
 
-![image](https://github.com/Apurva-official/Html-css_works/blob/main/Screenshot%20(87).png)
+![Price Cards PSD given to Html Code](https://github.com/Apurva-official/Html-css_works/blob/main/Screenshot%20(87).png)
 
 ![PSD to html landing-page](https://github.com/Apurva-official/Html-css_works/blob/main/landing-page.png)
 
@@ -11,7 +11,7 @@
 ![ContactUs Page](https://github.com/Apurva-official/Html-css_works/blob/main/Screenshot%20(189).png)
 
 
-![image](https://github.com/Apurva-official/Html-css_works/blob/main/Screenshot%20(190).png)
+![Login for personal Project](https://github.com/Apurva-official/Html-css_works/blob/main/Screenshot%20(190).png)
 
 ![image](https://github.com/Apurva-official/Html-css_works/blob/main/Screenshot%20(23).png)
 
